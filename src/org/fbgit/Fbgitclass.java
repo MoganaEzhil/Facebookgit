@@ -1,14 +1,14 @@
 package org.fbgit;
 
 public class Fbgitclass {
-	int a;
-	private void empId() {
-System.out.println(a);
-	}
-	public static void main(String[] args) {
-		Fbgitclass f =new Fbgitclass();
-		f.empId();
-		
-	}
+public static  void userName() {
+System.out.println("username");
+}
+public static void main(String[] args) {
+	userName();
+}
+
+
+
 
 }
